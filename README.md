@@ -10,3 +10,6 @@ This is my very first Python project! I built this to practice logic using 'whil
 ## Tech used 
 LANGUAGE- Python 3
 CONCEPTS- while loop, if-else logic, input handling
+<br>
+Author - Anubhav Singh
+
