@@ -8,7 +8,8 @@ This is my very first Python project! I built this to practice logic using 'whil
 -The program runs continuously until the user types 'exit'.
 
 ## Tech used 
-LANGUAGE- Python 3
+LANGUAGE- Python 3/3.x.x
+<br>
 CONCEPTS- while loop, if-else logic, input handling
 <br>
 Author - Anubhav Singh
