@@ -1,4 +1,4 @@
-# my-first-python-calculator
+# my-python-calculator
 A simple calculator using Python while loop
 This is my very first Python project! I built this to practice logic using 'while' loops and conditional statements.
 
